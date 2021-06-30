@@ -1,0 +1,1 @@
+# -e-itli-Makine-Algoritmalar-Kullan-larak-nceleme-Derecelerinin-Tahmini-ve-Duyarl-l-k-Analizi
